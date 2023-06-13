@@ -1,0 +1,15 @@
+.cart-product-img {
+    width: 100px;
+    height: 150px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.card-cart-list {
+    width: 100% !important;
+    height: 100%;
+    text-decoration: none;
+    border: none !important;
+    border-radius: 0% !important;
+    box-shadow: 0 0 4px 0 rgba(57, 78, 234, 0.1)
+}
